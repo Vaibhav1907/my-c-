@@ -9,11 +9,11 @@ class classs{
 
     public:
     classs(string name, string address, string email,  int age ,long phone){
-        this.name
-        this.age
-        this.phone
-        this.email
-        this.add
+        name=name;
+        age=age;
+        phone=phone;
+        email=email;
+        address=address;
         cout<<"your name is"<<name<<endl;
         cout<<"your age is"<<age<<endl;
         cout<<"your phoneno is"<<phone<<endl;
