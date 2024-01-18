@@ -25,6 +25,7 @@ int main(){
 
 
 
+
         default:
             cout<<"sorry not vowels";
             break;

@@ -2,7 +2,7 @@
 using namespace std;
 class employee{
     public:
-    long name,age,mobile,email,address;
+      string name,age,mobile,email,address;
     void myemployee(){
         cout<<"enter your name";
         cin>>name;
